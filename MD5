@@ -1,6 +1,6 @@
-fe9b6dedfd0b7c5639d8bb0574a58edb *DESCRIPTION
-5d2239c8a36291c13b8c56627a8374f2 *NAMESPACE
-fee3e685f14b359ac92a2fd5d5757245 *NEWS.md
+edb8914a14adf918c390fb0aaff1bed6 *DESCRIPTION
+183c1e33ec485d7774fa539e5d110c5a *NAMESPACE
+0ed707b8d0c9191587a2f1d490b78257 *NEWS.md
 20070e1cb8aa100e53f80470a76d7b27 *R/all_class_generics.R
 ec825633cb50050b5fa286fe2aa8a7f2 *R/caMST.R
 db4362f446854dd54e78d7c9a2370efa *R/computerized_adaptive_test_function.R
@@ -11,7 +11,7 @@ f1e9876ba284759592348572b4b03b4c *R/module_selection_function.R
 8a7667278e9f73a6f65c308964e6378f *R/mst_and_transition_matrices_for_caMST.R
 4e66e82a54c282a92c8946f15ceef489 *R/multistage_test_function.R
 bf731cb39fca6a01abaf305b0d718c70 *R/routing_item_selection.R
-980a3e7e3417cf0425647af31c7b68ca *R/transition_matrix_plot.R
+32a273299be6015684fe7bbf949be4e6 *R/transition_matrix_plot.R
 c0496143573d894e2428e95d2e660cf7 *data/cat_items.rda
 79b1e036bf1eefb3ee5c1506d133857d *data/example_module_items.rda
 b580059eea91cfeabee681d67a467733 *data/example_responses.rda
